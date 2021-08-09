@@ -17,15 +17,15 @@ const menu = [
   },
   {
     id: 3,
-    title: "godzilla milkshake",
-    category: "shakes",
+    title: "Tropical milkshake",
+    category: "Deserts",
     price: 6.99,
     img: "./images/item-3.jpeg",
     desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
   },
   {
     id: 4,
-    title: "country delight",
+    title: "country breakfast",
     category: "breakfast",
     price: 20.99,
     img: "./images/item-4.jpeg",
@@ -33,7 +33,7 @@ const menu = [
   },
   {
     id: 5,
-    title: "egg attack",
+    title: "Double egg burger",
     category: "lunch",
     price: 22.99,
     img: "./images/item-5.jpeg",
@@ -42,7 +42,7 @@ const menu = [
   {
     id: 6,
     title: "oreo dream",
-    category: "shakes",
+    category: "Deserts",
     price: 18.99,
     img: "./images/item-6.jpeg",
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
@@ -65,8 +65,8 @@ const menu = [
   },
   {
     id: 9,
-    title: "quarantine buddy",
-    category: "shakes",
+    title: "Strawberry cheese cake",
+    category: "Deserts",
     price: 16.99,
     img: "./images/item-9.jpeg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
